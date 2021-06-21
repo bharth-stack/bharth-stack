@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XJFeY1VCKlpYQ0pnNDRwHBv28TFKrVAsJhImaiNkqy8/edit?usp=sharing](https://docs.google.com/document/d/1XJFeY1VCKlpYQ0pnNDRwHBv28TFKrVAsJhImaiNkqy8/edit?usp=sharing)
 
 - ⚡ Fun fact **I like riding bike**
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2417352/screenshots/15114969/media/0c81e57be4cbb26606b641c7fc41f7ff.mp4">
+ <a align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2417352/screenshots/15114969/media/0c81e57be4cbb26606b641c7fc41f7ff.mp4"></a>
 
 
 <h3 align="left">Connect with me:</h3>
