@@ -1,5 +1,5 @@
 
-
+ <img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1981645/screenshots/9332949/media/cdd591c00dac8b1825389b3807039c89.jpg?compress=1&resize=1600x1200">
 <h1 align="center">Hi 👋, I'm A.V.N.Bharath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1XJFeY1VCKlpYQ0pnNDRwHBv28TFKrVAsJhImaiNkqy8/edit?usp=sharing](https://docs.google.com/document/d/1XJFeY1VCKlpYQ0pnNDRwHBv28TFKrVAsJhImaiNkqy8/edit?usp=sharing)
 
 - ⚡ Fun fact **I like riding bike**
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2788823/screenshots/15156922/media/54eb0a4ea226ee4241d7ab5beba342f6.jpg?compress=1&resize=1600x1200">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bharat_abh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharat_abh" height="30" width="40" /></a>
