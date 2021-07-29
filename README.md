@@ -1,5 +1,4 @@
 
- <img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1981645/screenshots/9332949/media/cdd591c00dac8b1825389b3807039c89.jpg?compress=1&resize=1600x1200">
 <h1 align="center">Hi 👋, I'm A.V.N.Bharath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
